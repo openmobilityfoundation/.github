@@ -5,7 +5,8 @@
 The OMF is an open-source foundation with a mission to transform the way cities manage transportation in the modern era building open-source data standards and software in collaboration with public and private organizations.
 
 - _Website_: [openmobilityfoundation.org](http://www.openmobilityfoundation.org/)
-- _Twitter_: [@OpenMobilityFnd](https://twitter.com/OpenMobilityFnd)
+- _LinkedIn_: [@OpenMobilityFnd](https://twitter.com/OpenMobilityFnd)
+- _Twitter_: [OpenMobility](https://www.linkedin.com/company/openmobility?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
 <!--
 
